@@ -157,7 +157,7 @@ export default function Contact() {
               style={{ display: 'flex', flexDirection: 'column', gap: 20 }}
             >
               {/* Google Map embed */}
-              <div style={{ borderRadius: 20, overflow: 'hidden', border: '1px solid var(--border)', flex: 1, minHeight: 260 }}>
+              {/* <div style={{ borderRadius: 20, overflow: 'hidden', border: '1px solid var(--border)', flex: 1, minHeight: 260 }}>
                 <iframe
                   title="PSR Grand Location"
                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3878.6!2d79.6210509!3d13.160026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52a5a57e02d979%3A0xec6be1ca8270300e!2sPSR+Kalyana+Mandapam+Tiruthani!5e0!3m2!1sen!2sin!4v1"
@@ -167,10 +167,10 @@ export default function Contact() {
                   allowFullScreen
                   loading="lazy"
                 />
-              </div>
+              </div> */}
 
               {/* Venue links */}
-              <div style={{ background: 'var(--surface)', border: '1px solid var(--border)', borderRadius: 20, padding: 28 }}>
+              {/* <div style={{ background: 'var(--surface)', border: '1px solid var(--border)', borderRadius: 20, padding: 28 }}>
                 <div style={{ fontSize: '0.72rem', letterSpacing: '0.15em', textTransform: 'uppercase', color: '#4cc999ff', fontWeight: 600, marginBottom: 16 }}>
                   Find Our Venues
                 </div>
@@ -194,7 +194,7 @@ export default function Contact() {
                     </a>
                   ))}
                 </div>
-              </div>
+              </div> */}
             </motion.div>
           </div>
         </div>
