@@ -41,11 +41,11 @@ export default function Contact() {
     },
   ];
 
-  const venues = [
-    { name: 'Marriage Hall', link: 'https://maps.app.goo.gl/8kmorDML7LL3uJFBA?g_st=aw', label: 'View on Google Maps' },
-    { name: 'Regency Hall', link: 'https://maps.app.goo.gl/xhovs4ofBoVUYWm96?g_st=aw', label: 'View on Google Maps' },
-    { name: 'Hotel Rooms', link: 'https://maps.app.goo.gl/N662ojxNj2xzHMsM6?g_st=aw', label: 'View on Google Maps' },
-  ];
+  // const venues = [
+  //   { name: 'Marriage Hall', link: 'https://maps.app.goo.gl/8kmorDML7LL3uJFBA?g_st=aw', label: 'View on Google Maps' },
+  //   { name: 'Regency Hall', link: 'https://maps.app.goo.gl/xhovs4ofBoVUYWm96?g_st=aw', label: 'View on Google Maps' },
+  //   { name: 'Hotel Rooms', link: 'https://maps.app.goo.gl/N662ojxNj2xzHMsM6?g_st=aw', label: 'View on Google Maps' },
+  // ];
 
   return (
     <div style={{ paddingTop: 80 }}>
